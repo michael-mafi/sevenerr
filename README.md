@@ -11,13 +11,13 @@
 
 ### Ruby on Rails App Usage
 
-git clone project
-`run bundle` in the project folder
-run rails server
-go to localhost:3000
+#####git clone project
+#####`run bundle` in the project folder
+#####`run rails server`
+#####go to `localhost:3000`
 
 ### Contributors
-Cat & Dolphin
+#####Cat & Dolphin
 
 ### License
-Feline Open Source Dolphin Super Restrictive License
+#####Feline Open Source Dolphin Super Restrictive License
