@@ -1,0 +1,17 @@
+<div class="container">
+   <div class="panel panel-default">
+     <div class="panel-heading">
+       <h2>Create your cat and dolphin gig </h2>
+     </div>
+
+     <div class="panel-body">
+       <%= form_for @service do |f| %>
+         <div class="form-group">
+           <label>Gig Title</label>
+           <% f.text_area :title, placeholder: "Cool Story Pegasus", rows: "2", class:"form-control" %>
+           </div>
+      <% end %>
+    </div>
+   </div>
+</div>
+
