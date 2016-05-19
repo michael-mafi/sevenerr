@@ -5,9 +5,7 @@
 
 # Sevenerr
 
-### A joint project between the cat and dolphin friendship coalition
-
-### A live working version of this ruby on rails app can be found and used here: `https://TBDbrah.com`
+### A joint project between this specific cat and dolphin 
 
 ### Ruby on Rails App Usage
 
@@ -19,5 +17,4 @@
 ### Contributors
 #####Cat & Dolphin
 
-### License
-#####Feline Open Source Dolphin Super Restrictive License
+
